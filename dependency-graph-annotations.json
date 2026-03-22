@@ -1,0 +1,19 @@
+{
+  "engines/characterParticles.js": "// SPA Engine: Character Particles",
+  "engines/particle&#45;clusters.js": "(no context found)",
+  "gestures.js": "// SPA Gesture System",
+  "navigation/router.js": "// ...existing code from router.js...",
+  "navigation/routes.js": "// ...existing code from routes.js...",
+  "overlayManager.js": "// SPA Overlay Manager",
+  "overlays/overlayManager.js": "// ...existing code from overlayManager.js...",
+  "overlays/transitionEngine.js": "// ...existing code from transitionEngine.js...",
+  "router.js": "// ...existing code from router.js...",
+  "routes.js": "// ...existing code from routes.js...",
+  "transitionEngine.js": "// ...existing code from transitionEngine.js...",
+  "typography/importantWords.js": "// Standalone important-word fluctuation effect for SPA",
+  "views/aboutView.js": "// SPA About View",
+  "views/gamesView.js": "// SPA Games View — Asymptote Engine placeholder",
+  "views/homeView.js": "// SPA Home View — \"swarm\" panel",
+  "views/musicView.js": "// SPA Music View — Spotify / Apple Music / Bandcamp / SoundCloud",
+  "views/socialView.js": "// SPA Social View — TikTok / Instagram / YouTube"
+}
